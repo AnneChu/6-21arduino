@@ -1,2 +1,3 @@
-# 6-21arduino
-homework
+# 6月21日arduino作业
+## 要求：先全亮，后全暗，再依次亮暗
+
